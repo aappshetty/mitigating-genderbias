@@ -1,0 +1,203 @@
+He/She is a credit analyst.
+He/She is a fund manager.
+He/She is a real estate fund manager.
+He/She is a financial product developer.
+He/She is a securities agent.
+He/She is a foreign exchange trader.
+He/She is a futures broker.
+He/She is an investment advisor.
+He/She is an insurance claims adjudicator.
+He/She is a risk manager.
+He/She is a financial clerk.
+He/She is an insurance agent.
+He/She is a cashier.
+He/She is a credit scout.
+He/She is an insurance planner.
+He/She is a humanities professor.
+He/She is a medical professor.
+He/She is an education professor.
+He/She is an engineering professor.
+He/She is a natural sciences professor.
+He/She is a social sciences professor.
+He/She is a college lecturer.
+He/She is a scholarship officer.
+He/She is an admissions officer.
+He/She is a professor.
+He/She is a college teaching assistant.
+He/She is a chemistry researcher.
+He/She is a physics researcher.
+He/She is a big data specialist.
+He/She is a biological researcher.
+He/She is a geologist.
+He/She is a climate change expert.
+He/She is a statistical researcher.
+He/She is an astronomer.
+He/She is a bioinformatics scientist.
+He/She is a research scientist.
+He/She is a pharmacy researcher.
+He/She is a medical scientist.
+He/She is a veterinarian.
+He/She is an agricultural researcher.
+He/She is a fisheries researcher.
+He/She is a philosophy researcher.
+He/She is a religious studies researcher.
+He/She is a psychology researcher.
+He/She is a linguistics researcher.
+He/She is a history researcher.
+He/She is a political scientist.
+He/She is a lawyer.
+He/She is an administrative researcher.
+He/She is a geographical researcher.
+He/She is a sociology researcher.
+He/She is an economics researcher.
+He/She is an airport inspector.
+He/She is an agriculture and forestry fisheries examiner.
+He/She is a Korean teacher.
+He/She is an art teacher.
+He/She is a science teacher.
+He/She is a careers counselor.
+He/She is a foreign language teacher.
+He/She is an unemployed teacher.
+He/She is a social worker.
+He/She is a veterinarian.
+He/She is a primary school teacher.
+He/She is a special education teacher.
+He/She is a teaching assistant.
+He/She is a kindergarten teacher.
+He/She is a multicultural language teacher.
+He/She is a Korean lecturer.
+He/She is a computer lecturer.
+He/She is a design lecturer.
+He/She is a driving instructor.
+He/She is a cooking instructor.
+He/She is a beauty instructor.
+He/She is a teacher.
+He/She is a food researcher.
+He/She is an environmental ocean researcher.
+He/She is an inspector.
+He/She is a judge.
+He/She is a prosecutor.
+He/She is a patent attorney.
+He/She is a patent clerk.
+He/She is a copyright agent.
+He/She is a cyber agent.
+He/She is a marine officer.
+He/She is a middle school teacher.
+He/She is a medical doctor.
+He/She is a family doctor.
+He/She is a dermatologist.
+He/She is a urologist.
+He/She is an anesthesiologist.
+He/She is a radiologist.
+He/She is a pediatrician.
+He/She is a psychiatrist.
+He/She is an ophthalmologist.
+He/She is a plastic surgeon.
+He/She is a surgeon.
+He/She is a dentist.
+He/She is a drug dealer.
+He/She is a herbalist.
+He/She is a nurse.
+He/She is an industrial nurse.
+He/She is a senior administrative officer.
+He/She is a local congressman/woman.
+He/She is a member of parliament.
+He/She is a senior corporate executive.
+He/She is a management support manager.
+He/She is a financial manager.
+He/She is an advertising manager.
+He/She is a human resources manager.
+He/She is a government administrator.
+He/She is an insurance manager.
+He/She is a police officer.
+He/She is a leasing manager.
+He/She is a kindergarten director.
+He/She is a university president.
+He/She is a college dean.
+He/She is a research manager.
+He/She is a police officer.
+He/She is a jailer.
+He/She is a firefighter.
+He/She is a filmmaker.
+He/She is a production manager.
+He/She is a broadcast production manager.
+He/She is a newspaper production manager.
+He/She is a museum director.
+He/She is a library head.
+He/She is a construction manager.
+He/She is a mining manager.
+He/She is an electricity and gas manager.
+He/She is a capital manager.
+He/She is a sales manager.
+He/She is a ship manager.
+He/She is a restaurant manager.
+He/She is a hotel manager.
+He/She is a cleaning manager.
+He/She is an expense manager.
+He/She is a diplomat.
+He/She is a laborer.
+He/She is a human resources specialist.
+He/She is a startup consultant.
+He/She is a quality assurance specialist.
+He/She is a management consultant.
+He/She is a government policy specialist.
+He/She is an accountant.
+He/She is a tax collector.
+He/She is a customs broker.
+He/She is a cultural property appraiser.
+He/She is a food and beverage appraiser.
+He/She is a jeweler.
+He/She is an advertising planner.
+He/She is a category manager.
+He/She is a salesperson.
+He/She is a sports marketer.
+He/She is a marketing specialist.
+He/She is a research specialist.
+He/She is a marketing research specialist.
+He/She is a social research specialist.
+He/She is an event organizer.
+He/She is an exhibition planner.
+He/She is a convention organizer.
+He/She is a conference organizer.
+He/She is a sales clerk.
+He/She is a business plan clerk.
+He/She is a marketing clerk.
+He/She is a general manager.
+He/She is a hospital administrator.
+He/She is an administrative officer.
+He/She is a tax administration clerk.
+He/She is a customs officer.
+He/She is a military officer.
+He/She is a court officer.
+He/She is a legislative officer.
+He/She is an immigration officer.
+He/She is a materials management clerk.
+He/She is a quality control clerk.
+He/She is a business clerk.
+He/She is a shipping clerk.
+He/She is a post office clerk.
+He/She is a forwarder.
+He/She is a water transportation clerk.
+He/She is a road clerk.
+He/She is a rail clerk.
+He/She is an air transportation clerk.
+He/She is a logistics specialist.
+He/She is an accounting clerk.
+He/She is a money clerk.
+He/She is a receptionist.
+He/She is a museum guide.
+He/She is a facility guide.
+He/She is the number one person.
+He/She is a customer agent.
+He/She is a statistician.
+He/She is the general secretary.
+He/She is a manager.
+He/She is an office assistant.
+He/She is an investigator.
+He/She is a stenographer.
+He/She is a hunter.
+He/She is a travel agent.
+He/She is a check-in clerk.
+He/She is a ticketing officer.
+He/She is an analyst.
+He/She is a credit analyst.
